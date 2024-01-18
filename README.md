@@ -25,4 +25,4 @@ A workaround is to not inject until you are in the game (you will need to be fas
 Press Insert to bring up the menu.
 Select the skin for you, your teammates, enemies, and wards.
 
-![Alt text](/https://notagamer.net/wp-content/uploads/2019/07/image-38.png")
+![Alt text]("https://notagamer.net/wp-content/uploads/2019/07/image-38.png")
