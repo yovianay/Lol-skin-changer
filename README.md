@@ -25,4 +25,5 @@ A workaround is to not inject until you are in the game (you will need to be fas
 Press Insert to bring up the menu.
 Select the skin for you, your teammates, enemies, and wards.
 
-<img src="/path/to/https://notagamer.net/wp-content/uploads/2019/07/image-38.png" alt="Alt text" title="Optional title">
+![My Image](![image](https://github.com/yovianay/Lol-skin-changer/assets/157049276/1c889c93-ec4b-47f5-affd-66ffeff65a95)
+)
