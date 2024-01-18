@@ -24,3 +24,5 @@ League client can crash if R3nzSkin is injected before being in the game.
 A workaround is to not inject until you are in the game (you will need to be fast to not disrupt the game).
 Press Insert to bring up the menu.
 Select the skin for you, your teammates, enemies, and wards.
+
+![alt text]([http://url/to/img.png](https://notagamer.net/wp-content/uploads/2019/07/image-38.png)https://notagamer.net/wp-content/uploads/2019/07/image-38.png)
